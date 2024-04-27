@@ -10,4 +10,4 @@ The Books Were Tested On **Kindle 8th Generation**
 | -------- | -------          |
 | 3        | NOT RELEASED YET |
 | 2        | NOT RELEASED YET |
-| 1        | [.azw3](https://github.com/hdcodesOfficial/HDMG-KindleBooks/raw/main/Official%20Book%20WWIII%20Perpective%20-%20HDMG.azw3), [.EPUB](https://github.com/hdcodesOfficial/HDMG-KindleBooks/raw/main/WWIII%20Perspective%20-%20From%20The%20Eyes%20Of%20John%20Simons%20Book%201.epub), [PDF](https://github.com/hdcodesOfficial/HDMG-KindleBooks/raw/main/Official%20Book%20WWIII%20Perpective%20-%20HDMG.azw3)             |
+| 1        | [.azw3](https://github.com/hdcodesOfficial/HDMG-KindleBooks/raw/main/Official%20Book%20WWIII%20Perpective%20-%20HDMG.azw3), [.EPUB](https://github.com/hdcodesOfficial/HDMG-KindleBooks/raw/main/WWIII%20Perspective%20-%20From%20The%20Eyes%20Of%20John%20Simons%20Book%201.epub), [PDF](https://github.com/hdcodesOfficial/HDMG-KindleBooks/raw/main/WWIII%20Perspective%20-%20From%20The%20Eyes%20Of%20John%20Simons%20Book%201.pdf)             |
