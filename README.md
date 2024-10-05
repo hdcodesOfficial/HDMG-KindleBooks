@@ -1,10 +1,17 @@
 # HDMG-KindleBooks
-We Create Books With AI! And Publish It For Free!
+Indulge Yourself in a matter of seconds with Our Free Well-Maintained HDMG's PDF and Works On Kindle Books.
 # Kindle Support
 We Support Kindle Devices Such As **Kindle 8th Gen** , **Kindle 9th Gen** , **Kindle 10th Gen** , **Kindle DX**
+### As of October 4th 2024, HDMG is no longer suporting .azw nor .mobi formats.
+
 # Test
-The Books Were Tested On **Kindle 8th Generation**
-# Series: WWIII Prespective - From The Eyes Of John Simons
+The .azw3 formatted Books Were Tested On **Kindle 8th Generation**
+
+# Our Series and Sagas
+Explore and Indulge in the Series and Sagas By HDMG.
+### Series: WWIII Prespective - From The Eyes Of John Simons
+John Simons, A Journalist Documents WW3 Bit-By-Bit as He Dives into the Oppresions and Deviations caused on his journey as Zombies and Mysterious Entities Begin to Attack Him. What Will be Our Protagonist's Future? Dive in to find outc
+Read Now For Free.
 
 | Book #   | Download Options |
 | -------- | -------          |
